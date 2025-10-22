@@ -91,14 +91,14 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "ag-grid-community": "31.1.1"
+    "ag-grid-community": "^31.1"
   },
   "peerDependencies": {
     "solid-js": ">=1.0.0"
   },
   "devDependencies": {
-    "ag-grid-community": "31.1.1",
-    "ag-grid-enterprise": "31.1.1",
+    "ag-grid-community": "^31.3.4",
+    "ag-grid-enterprise": "^31.3.4",
     "prettier": "^3.4.2",
     "solid-js": "^1.9.4",
     "taze": "^18.3.0",
