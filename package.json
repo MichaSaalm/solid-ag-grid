@@ -91,7 +91,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "ag-grid-community": "^31.1"
+    "ag-grid-community": "^31.3.4"
   },
   "peerDependencies": {
     "solid-js": ">=1.0.0"
